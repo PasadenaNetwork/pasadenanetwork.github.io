@@ -4,12 +4,12 @@
 
 **Why would we want to do this?
 
-    -Make Internet access available to all residents at affordable prices.
-    -Avoid the issues that arise with loss of Net Neutrality 
-    -Have a redundant network for emergency use
-    -Foster tech businesses in Pasadena
-    -Corporate providers monopolize the industry setting prices
-    -Corporate providers collect information about you and [sell it to 3rd parties](http://www.slate.com/blogs/future_tense/2017/03/28/congress_votes_to_allow_broadband_providers_to_sell_your_data.html) 
+    Make Internet access available to all residents at affordable prices.
+    Avoid the issues that arise with loss of Net Neutrality 
+    Have a redundant network for emergency use
+    Foster tech businesses in Pasadena
+    Corporate providers monopolize the industry setting prices
+    Corporate providers collect information about you and [sell it to 3rd parties](http://www.slate.com/blogs/future_tense/2017/03/28/congress_votes_to_allow_broadband_providers_to_sell_your_data.html) 
 
 **Important Links:
 
