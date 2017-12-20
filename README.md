@@ -1,8 +1,8 @@
 ## Did you know the City of Pasadena already has a [fiber network](https://ww5.cityofpasadena.net/information-technology/fiber-services/)?
 
-**This site's intention is to provide information to Pasadena residents regarding the potential for us to create our own municipal broadband network.
+**This site's intention is to provide information to Pasadena residents regarding the potential for us to create our own municipal broadband network.**
 
-**Why would we want to do this?
+**Why would we want to do this?**
 
 - Make Internet access available to all residents at affordable prices.
 - Avoid the issues that arise with loss of Net Neutrality 
@@ -11,7 +11,7 @@
 - Corporate providers monopolize the industry setting prices
 - Corporate providers collect information about you and [sell it to 3rd parties](http://www.slate.com/blogs/future_tense/2017/03/28/congress_votes_to_allow_broadband_providers_to_sell_your_data.html) 
 
-**Important Links:
+**Important Links:**
 
 - [Pasadena Fiber Information](https://ww5.cityofpasadena.net/information-technology/fiber-services/)
 - [Pasadena Fiber Map (PDF)](https://ww5.cityofpasadena.net/information-technology/wp-content/uploads/sites/49/2016/04/Fiber-Network-Map.pdf)
