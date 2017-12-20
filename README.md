@@ -1,4 +1,6 @@
 ## Did you know the City of Pasadena already has a [fiber network](https://ww5.cityofpasadena.net/information-technology/fiber-services/)?
+Join us on [Telegram](https://t.me/pasadenanetwork)<br>
+Follow us on [Twitter](https://twitter.com/PasadenaBBNow)
 
 **This site's intention is to provide information to Pasadena residents regarding the potential for us to create our own municipal broadband network.**
 
