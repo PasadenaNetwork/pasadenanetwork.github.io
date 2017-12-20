@@ -1,37 +1,27 @@
-## Welcome to Pasadena Network
+## Did you know the City of Pasadena already has a [fiber network](https://ww5.cityofpasadena.net/information-technology/fiber-services/)?
 
-You can use the [editor on GitHub](https://github.com/PasadenaNetwork/pasadenanetwork.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**This site's intention is to provide information to Pasadena residents regarding the potential for us to create our own municipal broadband network.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Why would we want to do this?
 
-### Markdown
+    -Make Internet access available to all residents at affordable prices.
+    -Avoid the issues that arise with loss of Net Neutrality 
+    -Have a redundant network for emergency use
+    -Foster tech businesses in Pasadena
+    -Corporate providers monopolize the industry setting prices
+    -Corporate providers collect information about you and [sell it to 3rd parties](http://www.slate.com/blogs/future_tense/2017/03/28/congress_votes_to_allow_broadband_providers_to_sell_your_data.html) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Important Links:
 
-```markdown
-Syntax highlighted code block
+    [Pasadena Fiber Information](https://ww5.cityofpasadena.net/information-technology/fiber-services/)
+    [Pasadena Fiber Map (PDF)](https://ww5.cityofpasadena.net/information-technology/wp-content/uploads/sites/49/2016/04/Fiber-Network-Map.pdf)
+    [Find your Pasadena City Council person](http://cityofpasadena.net/map/)
+    [All Pasadena Districts](https://ww5.cityofpasadena.net/mayor/all-districts/)
+    [Pasadena on Reddit](https://www.reddit.com/r/pasadena/)
+    [How municipal broadband helped Chattanooga TN](https://motherboard.vice.com/en_us/article/ezpk77/chattanooga-gigabit-fiber-network)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<small>Disclaimer: This site is for informational purposes only. 
+It is not in any way associated with the Pasadena City government.</small>
+<center><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a></center>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PasadenaNetwork/pasadenanetwork.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
